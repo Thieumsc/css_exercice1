@@ -1,35 +1,35 @@
 @font-face {
     font-weight: 100;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Thin.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Thin.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
 
 @font-face {
     font-weight: 300;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Light.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Light.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
 
 @font-face {
     font-weight: 400;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Regular.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Regular.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
 
 @font-face {
     font-weight: 500;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Medium.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Medium.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
 
 @font-face {
     font-weight: 700;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Bold.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Bold.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
 
 @font-face {
     font-weight: 900;
-    font-family: Heroes;
-    src: url(./Roboto/Roboto-Black.ttf) format(truetype), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
+    font-family: 'Heroes';
+    src: url('./Roboto/Roboto-Black.ttf') format('truetype'), local('Arial'), local('Helvetica Neue'), local('ubuntu'), local('sans-cherif');
 }
