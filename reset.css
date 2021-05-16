@@ -1,0 +1,24 @@
+h1, h2 {
+
+    font-weight: normal;
+    font-size: inherit;
+}
+
+a {
+    color: inherit;
+    cursor: none;
+    text-decoration: none;
+}
+
+html, body {
+    min-height: 100%;
+} 
+
+body {
+    font-size: 12px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
