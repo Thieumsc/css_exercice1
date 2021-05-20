@@ -1,5 +1,10 @@
 html, body {
     font-family: 'Heroes';
     font-weight: 100;
-    font-size: 18px;
+    font-size: 12px;
+    line-height: 120%;
+}
+
+h1 {
+    letter-spacing: 1.45rem;
 }
